@@ -1,2 +1,5 @@
 test add in upstream
 add in eclipse conflicts.
+  we merge upstream and resolve conlicts,then add to index, and then commit.
+modified in upstream
+
